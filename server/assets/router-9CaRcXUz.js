@@ -118,7 +118,7 @@ const $$splitComponentImporter$1 = () => import("./index-q-li3Md8.js");
 const Route$1 = createFileRoute("/")({
   component: lazyRouteComponent($$splitComponentImporter$1, "component")
 });
-const $$splitComponentImporter = () => import("./_slug-BiAWqI4P.js");
+const $$splitComponentImporter = () => import("./_slug-CjgDCofN.js");
 const Route = createFileRoute("/blog/$slug")({
   component: lazyRouteComponent($$splitComponentImporter, "component")
 });

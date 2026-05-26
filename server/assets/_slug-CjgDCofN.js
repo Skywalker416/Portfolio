@@ -2,7 +2,7 @@ import { jsx, jsxs } from "react/jsx-runtime";
 import { Link } from "@tanstack/react-router";
 import { marked } from "marked";
 import { ArrowLeft, Calendar, User, Tag } from "lucide-react";
-import { R as Route } from "./router-C7lH7WRv.js";
+import { R as Route } from "./router-9CaRcXUz.js";
 const allBlogs = [
   {
     "title": "Building a Prometheus + Grafana Monitoring Stack from Scratch",
