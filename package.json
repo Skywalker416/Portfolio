@@ -1,9 +1,10 @@
 {
   "name": "portfolio",
+  "homepage": "https://skywalker416.github.io/portfolio/",
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite dev --port 3000",
+    "dev": "vite",
     "build": "vite build",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist/client"
